@@ -4,6 +4,8 @@
 <p>profesor: cristian patiño</p>
 
 <h2>punto 1: constantes y variables</h2>
+<img src="./public/images/punto-1.png" 
+alt="punto 1">
 <h2>punto 2: sumas y constantes</h2>
 <h2>punto 3: suma de dos números indicados por el usuario</h2>
 <h2>punto 4: datos del usuario en consola</h2>
